@@ -1,4 +1,3 @@
-import * as prismicH from '@prismicio/helpers';
 import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
